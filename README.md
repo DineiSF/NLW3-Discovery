@@ -9,9 +9,13 @@ O desafio é utilizar este projeto como base para novos projetos próprios.
 #### Programação da Next Level Week 3 - Trilha Discovery 
 
 [x] Acelerando sua evolução     12/10
+
 [ ] Olhando as oportunidades    13/10
+
 [ ] A escolha da stack          14/10
+
 [ ] Até 2 anos em 2 meses       15/10
+
 [ ] A milha extra               16/10
 
 ---
