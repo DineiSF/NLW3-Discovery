@@ -10,7 +10,7 @@ O desafio é utilizar este projeto como base para novos projetos próprios.
 
 [x] Acelerando sua evolução     12/10
 
-[ ] Olhando as oportunidades    13/10
+[x] Olhando as oportunidades    13/10
 
 [ ] A escolha da stack          14/10
 
