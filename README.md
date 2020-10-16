@@ -1,4 +1,4 @@
-<h2 align="center"> ![Happy](https://github.com/DineiSF/NLW3-Discovery/blob/main/public/images/logo-icon.png?raw=true) Happy </h2>
+<div align="center" style="font-weight:bold" > ![Happy](https://github.com/DineiSF/NLW3-Discovery/blob/main/public/images/logo-icon.png?raw=true) Happy </div>
 ---
 
 <div align="justify"> Este é um projeto desenvolvido durante a <a href="https://nextlevelweek.com/inscricao/3" style="font-weight: bold" >Next level Week #3</a>, semana de Workshop realizada pela <a href="https://github.com/Rocketseat" style="font-weight: bold" >@Rocketseat</a>  realizada durante os dias 12 a 18 de outubro de 2020.
