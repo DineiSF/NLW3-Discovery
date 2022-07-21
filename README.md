@@ -30,7 +30,7 @@ O desafio é utilizar este projeto como base para novos projetos próprios. </di
 
 <h3> Preview </h3>
 
-![Happy](https://github.com/DineiSF/NLW3-Discovery/blob/main/public/images/assets/img1.png?raw=true){:height="36px" weight="36px"}
+![Happy](https://github.com/DineiSF/NLW3-Discovery/blob/main/public/images/assets/img1.png?raw=true)[:height="36px" weight="36px"]
 
 ![Happy](https://github.com/DineiSF/NLW3-Discovery/blob/main/public/images/assets/img2.png?raw=true)
 
